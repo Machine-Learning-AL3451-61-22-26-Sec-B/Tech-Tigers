@@ -67,4 +67,4 @@ Watch a demonstration of the application in action in this sample video:
 
 ### Blog Post
 Read our blog post on Medium to learn more about the development process and features of the application:
-[Medium Blog Post]([https://medium.com/@prabhuprabhakar647/title-a-case-study-of-the-candidate-elimination-algorithm-fff6a5f97ee9](https://medium.com/@prabhuprabhakar647/-2f619c84983f)) 
+[Medium Blog Post](https://medium.com/@prabhuprabhakar647/-2f619c84983f) 
