@@ -14,7 +14,7 @@ This application implements a neural network with a configurable number of epoch
 
 ## Preview
 
-![Neural Network with Backpropagation](insert_image_url_here)
+![Neural Network with Backpropagation](https://mainpy-qjwbkc9qsuac6yef8g55u4.streamlit.app/)
 
 ## Installation
 
@@ -62,3 +62,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/add-new-feature`).
 5. Open a pull request.
 
+## Additional Resources
+
+### Sample Video
+Watch a demonstration of the application in action in this sample video:
+[Sample Video](https://drive.google.com/file/d/1Gfsu9T5AurTVMjtSsDIZwXHPKc9NGmCe/view?usp=sharing)
+
+### Blog Post
+Read our blog post on Medium to learn more about the development process and features of the application:
+[Medium Blog Post](https://medium.com/@prabhuprabhakar647/title-building-a-simple-neural-network-with-streamlit-51237d1cfdf3)  
