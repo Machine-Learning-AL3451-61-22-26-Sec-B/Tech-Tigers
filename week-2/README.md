@@ -63,7 +63,7 @@ These dependencies are specified in the `requirements.txt` file.
 
 ### Sample Video
 Watch a demonstration of the application in action in this sample video:
-[Sample Video]([https://drive.google.com/file/d/1-hA7wJvHQpIye5pxC9UzpJkt_oA_4gbL/view?usp=drive_link](https://drive.google.com/file/d/15ZqLqHRTX3X6XyEeksnZMu-S_dtXtt04/view?usp=drive_link))
+[Sample Video](https://drive.google.com/file/d/15ZqLqHRTX3X6XyEeksnZMu-S_dtXtt04/view?usp=drive_link)
 
 ### Blog Post
 Read our blog post on Medium to learn more about the development process and features of the application:
