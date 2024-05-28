@@ -37,5 +37,5 @@ Contributions are welcome! If you have suggestions or find any issues, feel free
 
 
 ## Links:
-- [Streamlit App](#)
+- [Streamlit App](https://mainpy-a7uynb9rxr2xs8mkzd9q9x.streamlit.app/)
 - [Medium Article](#)
